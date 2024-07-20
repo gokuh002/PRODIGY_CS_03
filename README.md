@@ -1,1 +1,1 @@
-# PRODIGY_CS_03
+Simple GUI tool made using python to check the strength of the password
